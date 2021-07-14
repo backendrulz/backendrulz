@@ -29,7 +29,7 @@ class About extends Me
 ![Markdown](https://img.shields.io/badge/-Markdown-black?logo=markdown&style=social)&nbsp;&nbsp;
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&multiline=true&width=680&height=70&lines=%F0%9F%9A%80Frameworks%2FLibraries%2FTools)](https://git.io/typing-svg)
-<!-- PHP -->
+<br><!-- PHP -->
 ![PHP](https://img.shields.io/badge/PHP-555?style=for-the-badge&logo=php)<br>
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp;
 ![Lumen](https://img.shields.io/badge/-Lumen-black?logo=lumen&style=social)&nbsp;&nbsp;

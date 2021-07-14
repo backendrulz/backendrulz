@@ -4,7 +4,6 @@
 
 namespace Cristian;
 
-// Hi there 👋 
 // Some info about me...
 class About extends Me
 {

@@ -4,16 +4,15 @@
 
 namespace Cristian;
 
+// Hi there 👋 
 // Some info about me...
 class About extends Me
 {
-    public $fullName, $profession, $country;
-
-    public function __construct()
+    public function __construct(Developer $developer)
     {
-        $this->fullName   = 'Cristian Ferreyra';
-        $this->profession = 'Senior Full Stack Developer';
-        $this->country    = 'Argentina 🇦🇷';
+        $developer->fullName   = 'Cristian Ferreyra';
+        $developer->profession = 'Senior Full Stack Developer';
+        $developer->from       = 'Argentina 🇦🇷';
     }
 }
 ```

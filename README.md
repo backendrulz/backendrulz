@@ -86,10 +86,10 @@ class About extends Me
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&vCenter=true&width=680&height=70&lines=%F0%9F%93%88+Weekly+Statistics)](https://git.io/typing-svg)
 <!--START_SECTION:waka-->
 ```text
-Week: 21 September, 2021 - 27 September, 2021
+Week: 22 September, 2021 - 28 September, 2021
 
-PHP          2 hrs 51 mins   ███████████████░░░░░░░░░░   60.03 % 
-JavaScript   1 hr 44 mins    █████████▒░░░░░░░░░░░░░░░   36.74 % 
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JavaScript   1 hr 4 mins     ███████████▓░░░░░░░░░░░░░   46.86 % 
+PHP          1 hr 4 mins     ███████████▓░░░░░░░░░░░░░   46.46 % 
+JSON         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 ```
 <!--END_SECTION:waka-->

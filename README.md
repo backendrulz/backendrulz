@@ -86,7 +86,7 @@ class About extends Me
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&vCenter=true&width=680&height=70&lines=%F0%9F%93%88+Weekly+Statistics)](https://git.io/typing-svg)
 <!--START_SECTION:waka-->
 ```text
-Week: 27 October, 2021 - 02 November, 2021
+Week: 28 October, 2021 - 03 November, 2021
 
 TypeScript   2 hrs 43 mins   ████████████████████▒░░░░   81.83 % 
 HTML         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 

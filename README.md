@@ -86,6 +86,9 @@ class About extends Me
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&vCenter=true&width=680&height=70&lines=%F0%9F%93%88+Weekly+Statistics)](https://git.io/typing-svg)
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 07 November, 2021 - 13 November, 2021
+
+Rust     17 mins         █████████████████████▓░░░   87.18 % 
+TOML     2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 ```
 <!--END_SECTION:waka-->

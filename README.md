@@ -86,10 +86,10 @@ class About extends Me
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&vCenter=true&width=680&height=70&lines=%F0%9F%93%88+Weekly+Statistics)](https://git.io/typing-svg)
 <!--START_SECTION:waka-->
 ```text
-Week: 20 January, 2022 - 26 January, 2022
+Week: 21 January, 2022 - 27 January, 2022
 
-Vue.js       4 hrs 15 mins   ████████████████████████░   96.54 % 
-JavaScript   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-XML          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Vue.js       2 hrs 21 mins   ███████████████████████▒░   93.91 % 
+JavaScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+XML          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 ```
 <!--END_SECTION:waka-->

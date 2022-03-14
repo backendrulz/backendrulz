@@ -87,7 +87,14 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 06 March 2022 - To: 13 March 2022
+
+Bash         7 mins          █████████░░░░░░░░░░░░░░░░   35.75 %
+PHP          4 mins          ██████░░░░░░░░░░░░░░░░░░░   23.39 %
+HTML         3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
+JSON         3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+JavaScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->

@@ -87,7 +87,7 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2022 - To: 17 March 2022
+From: 11 March 2022 - To: 18 March 2022
 
 HTML         47 mins         ██████████████████▓░░░░░░   74.12 %
 Bash         7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %

@@ -87,7 +87,7 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 May 2022 - To: 02 June 2022
+From: 27 May 2022 - To: 03 June 2022
 
 PHP              2 hrs 32 mins   ████████████████████▒░░░░   81.41 %
 Bash             22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %

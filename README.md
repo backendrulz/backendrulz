@@ -87,12 +87,13 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 May 2022 - To: 05 June 2022
+From: 30 May 2022 - To: 06 June 2022
 
-PHP          3 hrs 23 mins   ████████████████████████░   95.87 %
-JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+PHP              6 hrs 57 mins   ████████████████████▒░░░░   81.41 %
+Blade Template   1 hr 31 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
+Bash             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

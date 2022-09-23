@@ -89,11 +89,11 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 September 2022 - To: 20 September 2022
+From: 15 September 2022 - To: 22 September 2022
 
-PHP                              ██████████████████████▒░░   89.96 %
-Blade Template                   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-Bash                             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+PHP                              ██████████████████▒░░░░░░   73.52 %
+Bash                             ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
+Blade Template                   ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
 ```
 
 <!--END_SECTION:waka-->

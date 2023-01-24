@@ -89,12 +89,12 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 January 2023 - To: 22 January 2023
+From: 16 January 2023 - To: 23 January 2023
 
-PHP                              █████████████████████▓░░░   86.42 %
-Blade Template                   ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
-XML                              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Git Config                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+PHP                              ████████████████████░░░░░   79.56 %
+Blade Template                   ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
+XML                              ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Git Config                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->

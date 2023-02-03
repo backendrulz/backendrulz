@@ -89,7 +89,7 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 January 2023 - To: 01 February 2023
+From: 26 January 2023 - To: 02 February 2023
 
 PHP                              ███████████████████░░░░░░   75.35 %
 JavaScript                       ████░░░░░░░░░░░░░░░░░░░░░   15.98 %

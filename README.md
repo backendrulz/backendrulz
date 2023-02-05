@@ -89,11 +89,10 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 January 2023 - To: 03 February 2023
+From: 28 January 2023 - To: 04 February 2023
 
-JavaScript                   ███████████████████░░░░░░   75.61 %
-Markdown                     ██████░░░░░░░░░░░░░░░░░░░   24.01 %
-JSON                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+JavaScript                   █████████████████████████   99.49 %
+JSON                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->

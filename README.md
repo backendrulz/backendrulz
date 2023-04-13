@@ -89,9 +89,14 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2023 - To: 11 April 2023
+From: 05 April 2023 - To: 12 April 2023
 
-JavaScript                   █████████████████████████   100.00 %
+JavaScript                   █████████████████░░░░░░░░   67.88 %
+TypeScript                   ██████░░░░░░░░░░░░░░░░░░░   23.95 %
+MDX                          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+JSON                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TSConfig                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Git Config                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->

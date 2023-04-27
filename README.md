@@ -89,10 +89,11 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 April 2023 - To: 25 April 2023
+From: 19 April 2023 - To: 26 April 2023
 
-MDX                          ████████████████████████▓   98.09 %
-TypeScript                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+MDX                          ███████████▒░░░░░░░░░░░░░   45.87 %
+TypeScript                   ████████▒░░░░░░░░░░░░░░░░   32.77 %
+JSON                         █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
 ```
 
 <!--END_SECTION:waka-->

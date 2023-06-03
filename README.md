@@ -88,14 +88,14 @@ class About extends Me
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&vCenter=true&width=680&height=70&lines=%F0%9F%93%88+Weekly+Statistics)](https://git.io/typing-svg)
 <!--START_SECTION:waka-->
 
-```text
-From: 25 May 2023 - To: 01 June 2023
+```txt
+From: 26 May 2023 - To: 02 June 2023
 
-PHP                              ███████████████████████▒░   93.93 %
-Bash                             ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-JSON                             ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Other                            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-XML                              ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+PHP                              ███████████████████████▓░   95.03 %
+Bash                             ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+JSON                             ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Other                            ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+XML                              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->

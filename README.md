@@ -89,7 +89,7 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2023 - To: 24 August 2023
+From: 18 August 2023 - To: 25 August 2023
 
 PHP                              ███████████████████████▓░   94.85 %
 ActionScript 3                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %

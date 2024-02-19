@@ -89,7 +89,7 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2024 - To: 17 February 2024
+From: 11 February 2024 - To: 18 February 2024
 
 JSON                         ███████████████████░░░░░░   75.71 %
 TypeScript                   █████▒░░░░░░░░░░░░░░░░░░░   21.93 %

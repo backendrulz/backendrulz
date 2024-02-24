@@ -89,9 +89,13 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 February 2024 - To: 22 February 2024
+From: 16 February 2024 - To: 23 February 2024
 
-Vue.js                   █████████████████████████   100.00 %
+Vue.js                       ███████████████████▒░░░░░   77.86 %
+JSON                         ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+TypeScript                   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+TSConfig                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JavaScript                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->

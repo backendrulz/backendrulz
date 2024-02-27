@@ -61,7 +61,6 @@ class About extends Me
 ![Tools](https://img.shields.io/badge/Tools-555?style=for-the-badge&logo=quasar)<br>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=visualstudiocode&style=social)&nbsp;&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-black?logo=sublimetext&style=social)&nbsp;&nbsp;
-![Atom](https://img.shields.io/badge/-Atom-black?logo=atom&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-black?logo=gitlab&style=social)&nbsp;&nbsp;

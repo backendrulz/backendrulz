@@ -88,9 +88,9 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2024 - To: 03 April 2024
+From: 28 March 2024 - To: 04 April 2024
 
-Vue.js                            ████████████████▒░░░░░░░░   65.14 %
+Vue.js                            ████████████████▒░░░░░░░░   65.15 %
 Java                              ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
 PHP                               ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
 TypeScript                        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %

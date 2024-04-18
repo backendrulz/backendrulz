@@ -88,11 +88,10 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2024 - To: 16 April 2024
+From: 10 April 2024 - To: 17 April 2024
 
-Rust                    ███████████████████████▒░   93.18 %
-PHP                     █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Other                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Rust                    ████████████████████████▒   96.76 %
+Other                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 ```
 
 <!--END_SECTION:waka-->

@@ -88,7 +88,7 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 May 2024 - To: 20 May 2024
+From: 14 May 2024 - To: 21 May 2024
 
 PHP                   █████████████████████████   100.00 %
 ```

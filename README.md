@@ -88,12 +88,10 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2024 - To: 05 July 2024
+From: 29 June 2024 - To: 06 July 2024
 
-TypeScript                   █████████████████████▒░░░   85.51 %
-JavaScript                   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-PHP                          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-JSON                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+JSON                   ████████████████████▓░░░░   82.89 %
+PHP                    ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
 ```
 
 <!--END_SECTION:waka-->

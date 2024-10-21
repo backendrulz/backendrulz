@@ -88,10 +88,10 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2024 - To: 19 October 2024
+From: 13 October 2024 - To: 20 October 2024
 
-PHP                              ████████████████████████▒   97.94 %
-JavaScript                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+PHP                              ████████████████████████▓   98.08 %
+JavaScript                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 Blade Template                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 HTML                             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Bash                             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %

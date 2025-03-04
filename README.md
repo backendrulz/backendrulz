@@ -88,12 +88,10 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2025 - To: 02 March 2025
+From: 24 February 2025 - To: 03 March 2025
 
-PHP                        ██████████████░░░░░░░░░░░   55.41 %
-Markdown                   ██████████▒░░░░░░░░░░░░░░   40.82 %
-Bash                       █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Other                      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+PHP                     █████████████████████████   99.72 %
+Other                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->

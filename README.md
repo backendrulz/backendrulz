@@ -84,10 +84,10 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2025 - To: 11 June 2025
+From: 05 June 2025 - To: 12 June 2025
 
-Python                   ████████████████▓░░░░░░░░   66.66 %
-PHP                      ████████▒░░░░░░░░░░░░░░░░   33.34 %
+Python                   ██████████████▒░░░░░░░░░░   57.44 %
+PHP                      ██████████▓░░░░░░░░░░░░░░   42.56 %
 ```
 
 <!--END_SECTION:waka-->

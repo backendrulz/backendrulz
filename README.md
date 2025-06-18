@@ -84,7 +84,7 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2025 - To: 16 June 2025
+From: 10 June 2025 - To: 17 June 2025
 
 PHP                        ███████████████████████░░   91.47 %
 YAML                       ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %

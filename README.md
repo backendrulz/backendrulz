@@ -84,9 +84,12 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2025 - To: 23 June 2025
+From: 17 June 2025 - To: 24 June 2025
 
-No activity tracked
+Vue.js                       ████████████████████████▓   98.64 %
+JavaScript                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+TypeScript                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->

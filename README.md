@@ -84,13 +84,9 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 July 2025 - To: 10 July 2025
+From: 04 July 2025 - To: 11 July 2025
 
-Vue.js                       ██████████████░░░░░░░░░░░   56.51 %
-PHP                          ██████▒░░░░░░░░░░░░░░░░░░   25.71 %
-TypeScript                   ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
-JavaScript                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Bash                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+PHP                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

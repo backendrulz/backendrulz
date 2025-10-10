@@ -84,9 +84,10 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2025 - To: 08 October 2025
+From: 02 October 2025 - To: 09 October 2025
 
-JavaScript                   █████████████████████████   100.00 %
+JavaScript                   ████████████████████████▒   97.92 %
+Bash                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->

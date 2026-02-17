@@ -84,13 +84,13 @@ class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2026 - To: 15 February 2026
+From: 09 February 2026 - To: 16 February 2026
 
-PHP                              ██████▓░░░░░░░░░░░░░░░░░░   27.16 %
-Blade Template                   █████▒░░░░░░░░░░░░░░░░░░░   20.80 %
-JSON                             █████░░░░░░░░░░░░░░░░░░░░   20.28 %
-shell script                     ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-YAML                             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
+PHP                              ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
+Blade Template                   ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
+JSON                             ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
+Markdown                         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+shell script                     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
 ```
 
 <!--END_SECTION:waka-->

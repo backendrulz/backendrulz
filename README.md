@@ -2,16 +2,33 @@
 ```php
 <?php
 
-namespace Cristian;
+namespace Cristian\Profile;
 
-// Some info about me...
-class About extends Me
+use Enums\Country;
+use Attributes\Passion;
+
+#[Passion('Coding', 'Architecture', 'Open Source')]
+final class About extends Me
 {
-    public function __construct(Developer $developer)
+    public function __construct(
+        public private(set) string  $fullName = 'Cristian Ferreyra',
+        public private(set) string  $role     = 'Full Stack Developer',
+        public private(set) Country $from     = Country::Argentina,
+        public private(set) array   $stack    = ['PHP 8.x', 'Laravel', 'Bun', 'Vue'],
+    ) {}
+
+    public string $currentStatus {
+        get => match (true) {
+            (int) date('N') >= 6 => 'Enjoying the weekend 🧉',
+            (int) date('H') < 9  => 'Brewing the first coffee ☕',
+            (int) date('H') > 22 => 'Debugging in owl mode 🦉',
+            default              => 'Writing clean and elegant code 💻',
+        };
+    }
+    
+    public function getDailyGoal(): string
     {
-        $developer->fullName   = 'Cristian Ferreyra';
-        $developer->profession = 'Senior Full Stack Developer';
-        $developer->from       = 'Argentina 🇦🇷';
+        return 'Build robust applications & learn something new every day.';
     }
 }
 ```

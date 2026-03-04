@@ -101,12 +101,11 @@ final class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2026 - To: 02 March 2026
+From: 24 February 2026 - To: 03 March 2026
 
-PHP                                █████████████████▓░░░░░░░   70.30 %
-JSON                               ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
-JavaScript                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-jsonc                              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+PHP                                ████████████████████░░░░░   80.64 %
+Markdown                           ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
+JavaScript                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->

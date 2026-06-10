@@ -101,9 +101,11 @@ final class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2026 - To: 08 June 2026
+From: 02 June 2026 - To: 09 June 2026
 
-PHP                         █████████████████████████   100.00 %
+PHP                                    ███████████████████████▒░   93.34 %
+shell script                           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Blade Template                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->

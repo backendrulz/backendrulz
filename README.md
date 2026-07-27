@@ -101,12 +101,10 @@ final class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2026 - To: 25 July 2026
+From: 19 July 2026 - To: 26 July 2026
 
-Rust                               ████████████████▓░░░░░░░░   66.33 %
-Vue                                ████████░░░░░░░░░░░░░░░░░   32.28 %
-PHP                                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-TypeScript                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+PHP                                ████████████████░░░░░░░░░   63.64 %
+TypeScript                         █████████░░░░░░░░░░░░░░░░   36.36 %
 ```
 
 <!--END_SECTION:waka-->

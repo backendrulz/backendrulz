@@ -101,7 +101,7 @@ final class About extends Me
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2026 - To: 08 August 2026
+From: 02 August 2026 - To: 09 August 2026
 
 PHP                              ███████████████████████▓░   94.29 %
 jsonc                            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
